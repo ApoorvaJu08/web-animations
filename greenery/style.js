@@ -1,0 +1,1 @@
+alert("Trees and plants absorb large amount of carbondioxide, saves us from global warming and releases large amount of oxygen, so save the nature, nature saves you")
